@@ -43,13 +43,13 @@ body {
 }
 
 .e a img {
-  transition:all .2s;
+  transition:all .1s linear;
 }
 
 .e a:first-of-type { margin-right:24px; }
 
 .e a:hover img {
-  transform:translateY(4px);
+  transform:translateY(-4px);
 }
 
 @media (max-width: 420px) {
