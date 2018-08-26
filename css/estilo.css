@@ -22,6 +22,11 @@ html {
     to { transform: translateX(-48px); }
 }
 
+@-webkit-keyframes nubeslide {
+    from { transform: translateX(0px); }
+    to { transform: translateX(-1200px); }
+}
+
 body {
   position: relative;
   margin: 0;
@@ -62,6 +67,16 @@ body {
     background-image:url("../img/suelo.png");
 }
 
+.b .nubes {
+    width:2400px;
+    height:192px;
+    position:absolute;
+    top:64px;
+    left:0;
+    animation:nubeslide 14s linear infinite;
+    background-image:url("../img/clouds.png");
+}
+
 .e {
   position: absolute;
   right: 0;
@@ -90,4 +105,8 @@ body {
 @media (max-width: 800px) {
     .b .pj { left: 35%; bottom:208px; }
     .b .suelo { bottom:64px; }
+}
+
+@media (max-height: 570px) {
+    .b .nubes { display:none; }
 }
