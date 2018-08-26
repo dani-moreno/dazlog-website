@@ -17,6 +17,11 @@ html {
   cursor:url(https://i.imgur.com/bj7fSgG.png), auto;
 }
 
+@-webkit-keyframes sueloslide {
+    from { transform: translateX(0px); }
+    to { transform: translateX(-48px); }
+}
+
 body {
   position: relative;
   margin: 0;
@@ -29,15 +34,32 @@ body {
 }
 
 .b {
-  margin: 0 auto;
-  padding-top: 64px;
-  max-width: 640px;
-  width: 94%;
+  min-height:100%;
+  position:absolute;
+  overflow:hidden;
+  width:100%;
   text-align:center;
 }
 
-.b img {
-    max-width:100%;
+.b .pj {
+    width:96px;
+    height:144px;
+    left:200px;
+    bottom:168px;
+    position:absolute;
+    background-repeat:no-repeat;
+    /*background-position:200px calc(100% - 144px);*/
+    background-image:url("../img/pj.gif");
+}
+
+.b .suelo {
+    width:200%;
+    height:144px;
+    position:absolute;
+    bottom:24px;
+    left:0;
+    animation:sueloslide .3s linear infinite;
+    background-image:url("../img/suelo.png");
 }
 
 .e {
@@ -45,7 +67,7 @@ body {
   right: 0;
   bottom: 0;
   left: 0;
-  padding: 4px 0 8px;
+  padding: 4px 0 16px;
   text-align: center;
 }
 
@@ -63,4 +85,9 @@ body {
     .e a:first-of-type { margin-right:0px; }
     .e a { display:block; }
     .e a:hover img { transform:translateY(0px); }
+}
+
+@media (max-width: 800px) {
+    .b .pj { left: 35%; bottom:208px; }
+    .b .suelo { bottom:64px; }
 }
