@@ -3,6 +3,13 @@ html {
   box-sizing: border-box;
 }
 
+::selection {
+  background: #e1534a;
+}
+::-moz-selection {
+  background: #e1534a;
+}
+
 *,
 *:before,
 *:after {
