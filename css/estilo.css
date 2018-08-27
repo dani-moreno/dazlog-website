@@ -14,7 +14,7 @@ html {
 *:before,
 *:after {
   box-sizing: inherit;
-  cursor:url(https://i.imgur.com/bj7fSgG.png), auto;
+  cursor:url("../img/cr.png"), auto;
 }
 
 @-webkit-keyframes sueloslide {
