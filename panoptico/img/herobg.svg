@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="392px" viewBox="0 0 1440 392" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Path 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#ECECEC" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(0.000000, -463.000000)" fill="url(#linearGradient-1)">
+            <path d="M0,705.326906 C281.099983,741.018258 539.099983,717.860793 774,635.854513 C1008.90002,553.848232 1230.90002,496.230061 1440,463 L1440,855 L0,855 L0,705.326906 Z" id="Path-2"></path>
+        </g>
+    </g>
+</svg>
