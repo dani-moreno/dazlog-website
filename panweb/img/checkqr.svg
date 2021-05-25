@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Path 12</title>
+    <g id="Diseños" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-12" transform="translate(-56.000000, -96.000000)" fill="#5C7CFA" fill-rule="nonzero">
+            <g id="Group-9" transform="translate(56.500000, 96.500000)">
+                <path d="M1.5,0 C2.27969612,0 2.92044868,0.594888083 2.99313342,1.35553999 L3,1.5 L3,11.5 C3,11.7454599 3.17687516,11.9496084 3.41012437,11.9919443 L3.5,12 L13.5,12 C14.3284271,12 15,12.6715729 15,13.5 C15,14.2796961 14.4051119,14.9204487 13.64446,14.9931334 L13.5,15 L3.5,15 C1.6314366,15 0.104873551,13.5357224 0.00517886273,11.6920352 L0,11.5 L0,1.5 C0,0.671572875 0.671572875,0 1.5,0 Z" id="Path-12" transform="translate(7.500000, 7.500000) scale(1, -1) translate(-7.500000, -7.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

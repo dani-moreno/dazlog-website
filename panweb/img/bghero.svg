@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="962px" height="962px" viewBox="0 0 962 962" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 7</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.02" stroke-opacity="0.06">
+        <g id="Artboard" transform="translate(-571.000000, 16.000000)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2">
+            <g id="Group-7" transform="translate(572.000000, -15.000000)">
+                <rect id="Rectangle" x="0" y="0" width="960" height="960" rx="480"></rect>
+                <rect id="Rectangle" x="60" y="60" width="840" height="840" rx="420"></rect>
+                <rect id="Rectangle" x="120" y="120" width="720" height="720" rx="360"></rect>
+                <rect id="Rectangle" x="180" y="180" width="600" height="600" rx="300"></rect>
+                <rect id="Rectangle" x="240" y="240" width="480" height="480" rx="240"></rect>
+                <rect id="Rectangle" x="300" y="300" width="360" height="360" rx="180"></rect>
+                <rect id="Rectangle" x="360" y="360" width="240" height="240" rx="120"></rect>
+                <rect id="Rectangle" x="420" y="420" width="120" height="120" rx="60"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

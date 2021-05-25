@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 11</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-493.000000, -1353.000000)">
+            <g id="Group-11" transform="translate(493.000000, 1353.000000)">
+                <rect id="Rectangle" stroke="#979797" stroke-width="0.888888889" fill="#D8D8D8" opacity="0" x="0" y="0" width="32" height="32"></rect>
+                <path d="M24,5 C25.6568542,5 27,6.34314575 27,8 L27,8 L27,24 C27,25.6568542 25.6568542,27 24,27 L24,27 L8,27 C6.34314575,27 5,25.6568542 5,24 L5,24 L5,8 C5,6.34314575 6.34314575,5 8,5 L8,5 Z M24,7 L21,7 L21,11 C21,12.1045695 20.1045695,13 19,13 L19,13 L13,13 C11.8954305,13 11,12.1045695 11,11 L11,11 L11,7 L11,7 L8,7 C7.44771525,7 7,7.44771525 7,8 L7,8 L7,24 C7,24.5522847 7.44771525,25 8,25 L8,25 L24,25 C24.5522847,25 25,24.5522847 25,24 L25,24 L25,8 C25,7.44771525 24.5522847,7 24,7 L24,7 Z M19,7 L13,7 L13,11 L19,11 L19,7 Z" id="Combined-Shape" fill="#1098AD" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
