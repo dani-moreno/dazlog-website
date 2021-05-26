@@ -1,0 +1,37 @@
+apiVersion: apps/v1beta1
+kind: Deployment
+metadata:
+  name: panoptico-landing-new
+  namespace: landings-prod
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: panoptico-landing-new
+  template:
+    metadata:
+      labels:
+        app: panoptico-landing-new
+    spec:
+      containers:
+      - name: panoptico-landing-new
+        image: $REGISTRY_SERVER_PROD/$CI_PROJECT_NAME-panoptico:$CI_COMMIT_REF_NAME
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 80
+        env:
+        - name: COMMIT
+          value: $CI_COMMIT_SHA
+      imagePullSecrets:
+      - name: registry
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: panoptico-landing-new
+  namespace: landings-prod
+spec:
+  ports:
+  - port: 80
+  selector:
+    app: panoptico-landing-new

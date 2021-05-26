@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="18px" viewBox="0 0 17 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 21</title>
+    <g id="Diseños" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-932.000000, -5766.000000)">
+            <g id="Group-21" transform="translate(933.000000, 5767.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#D8D8D8" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                <g id="phone" transform="translate(0.650000, 0.650000)" stroke="#0BA678" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+                    <path d="M4.14286,0 L1.31818,0 C0.59017,0 0,0.59017 0,1.31818 C0,8.5983 5.9017,14.5 13.1818,14.5 C13.9098,14.5 14.5,13.9098 14.5,13.1818 L14.5,10.3571 L11.3929,8.2857 L9.7817,9.8968 C9.5019,10.1767 9.0837,10.2637 8.7321,10.0821 C8.1358,9.774 7.1681,9.1952 6.2143,8.2857 C5.23768,7.3545 4.66548,6.3511 4.37829,5.744 C4.21734,5.4037 4.31052,5.01091 4.57669,4.74474 L6.2143,3.10714 L4.14286,0 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
